@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to the use of mutable variables in F#. The `bug.fs` file shows the erroneous code, where mutable variables are used outside of a function but impact its behavior. The `bugSolution.fs` file shows the corrected version using immutable variables and function arguments.
